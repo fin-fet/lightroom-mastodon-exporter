@@ -1,1 +1,5 @@
-build/*
+# General Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
